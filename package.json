@@ -9,6 +9,7 @@
   "dependencies": {
     "@heroicons/vue": "^1.0.5",
     "@tailwindcss/forms": "^0.4.0",
+    "@vee-validate/rules": "^4.5.7",
     "vee-validate": "^4.5.7",
     "vue": "^3.2.25",
     "yup": "^0.32.11"
