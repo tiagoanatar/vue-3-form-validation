@@ -1,6 +1,6 @@
 <template>
 	<div class="p-10">
-    <Form :validation-schema="formSchema">
+    <Form>
       <FormInput
           id="name"
           name="name"
